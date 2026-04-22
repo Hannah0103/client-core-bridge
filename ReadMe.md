@@ -16,3 +16,4 @@
 ### 历史包袱与工程现实
 - iOS/Android 技术栈差异太大，如果直接三端各写一套数据层，维护成本和回归风险会持续上升。C++ 是跨端可控、性能和工具链都成熟的折中方案。
 
+<img width="3048" height="3084" alt="流程图" src="https://github.com/user-attachments/assets/f5d4a888-0319-4dc2-94b7-7ade69687fea" />
