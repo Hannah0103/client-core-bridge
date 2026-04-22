@@ -1,0 +1,11 @@
+com.example.hannah_data_sdk.hannah-data-sdk-annotation-experimental-1.3.0-0 /Users/lumeng/.gradle/caches/8.13/transforms/23dbbd778b24afb89115c69aacef3b1e/transformed/annotation-experimental-1.3.0/res
+com.example.hannah_data_sdk.hannah-data-sdk-lifecycle-runtime-2.3.1-1 /Users/lumeng/.gradle/caches/8.13/transforms/7c3592bf2e7cd3cbe9dc15a39674354f/transformed/lifecycle-runtime-2.3.1/res
+com.example.hannah_data_sdk.hannah-data-sdk-core-ktx-1.10.1-2 /Users/lumeng/.gradle/caches/8.13/transforms/86ce7ea5b1862481f8519ebeeb761a39/transformed/core-ktx-1.10.1/res
+com.example.hannah_data_sdk.hannah-data-sdk-core-1.10.1-3 /Users/lumeng/.gradle/caches/8.13/transforms/e2ecf5d1f86cbaec73edd5ab67c2c163/transformed/core-1.10.1/res
+com.example.hannah_data_sdk.hannah-data-sdk-pngs-4 /Volumes/WorkSpace/CodeManager/Ai_Auto/client_exercise/Android/hannah-data-sdk/build/generated/res/pngs/release
+com.example.hannah_data_sdk.hannah-data-sdk-resValues-5 /Volumes/WorkSpace/CodeManager/Ai_Auto/client_exercise/Android/hannah-data-sdk/build/generated/res/resValues/release
+com.example.hannah_data_sdk.hannah-data-sdk-mergeReleaseResources-6 /Volumes/WorkSpace/CodeManager/Ai_Auto/client_exercise/Android/hannah-data-sdk/build/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.example.hannah_data_sdk.hannah-data-sdk-mergeReleaseResources-7 /Volumes/WorkSpace/CodeManager/Ai_Auto/client_exercise/Android/hannah-data-sdk/build/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.example.hannah_data_sdk.hannah-data-sdk-release-8 /Volumes/WorkSpace/CodeManager/Ai_Auto/client_exercise/Android/hannah-data-sdk/build/intermediates/merged_res/release/mergeReleaseResources
+com.example.hannah_data_sdk.hannah-data-sdk-main-9 /Volumes/WorkSpace/CodeManager/Ai_Auto/client_exercise/Android/hannah-data-sdk/src/main/res
+com.example.hannah_data_sdk.hannah-data-sdk-release-10 /Volumes/WorkSpace/CodeManager/Ai_Auto/client_exercise/Android/hannah-data-sdk/src/release/res
